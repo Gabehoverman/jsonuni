@@ -12,15 +12,6 @@ Location | City Name, State name
 Colors | Colors of University
 Nickname | Nickname of University
 
-
-Example University | Details
--------------------| -------
-Title | University of Michigan
-Established | 1817-08-26
-Location | Ann Arbor, Michigan
-Colors | Maize and Blue
-Nickname | Wolverines
-
 ###Example University File
 
 ```json 
