@@ -13,7 +13,7 @@ Colors | Colors of University
 Nickname | Nickname of University
 
 
-Example University |
+Example University | Details
 -------------------|
 Title | University of Michigan
 Established | 1817-08-26
