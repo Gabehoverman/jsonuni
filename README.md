@@ -28,6 +28,7 @@ Nickname | Wolverines
 {
     "Title": "University of Michigan",
     "Established": "1817-08-26",
+    "Location": "Ann Arbor, Michigan",
     "Colors": [
         "Maize", 
         "Blue"
