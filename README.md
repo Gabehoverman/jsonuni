@@ -12,7 +12,7 @@ Location | City Name, State name
 Colors | Colors of University
 Nickname | Nickname of University
 
-###Example University
+### Example University
 
 Example University | Details
 -------------------| -------
@@ -22,7 +22,7 @@ Location | Ann Arbor, Michigan
 Colors | Maize and Blue
 Nickname | Wolverines
 
-###Example University File
+### Example University File
 
 ```json 
 {
